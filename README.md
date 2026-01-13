@@ -1,2 +1,2 @@
-# gitLession
+# gitLesson
 my remote repo while i'm learning git...
